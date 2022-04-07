@@ -1,3 +1,4 @@
 import world
+import hello
 
 hello world
